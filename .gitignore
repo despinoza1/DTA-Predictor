@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Data and Temp Directories
+misc/
+model/
+predictions/
+test/
+tmp/
+training/
+*.log
